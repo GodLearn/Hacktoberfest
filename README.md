@@ -89,6 +89,6 @@ git push origin branch-name
 ### Thanks for visiting!
 #### Regards, GodLearn
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suraj-kumar-agarwal-090649205/)](https://www.linkedin.com/in/suraj-kumar-agarwal-090649205/)
-[![CodeChef](https://img.shields.io/badge/CodeChef-brwon/endpoint?color=gray&logo=CodeChef&style=for-the-badge&link=https://www.codechef.com/users/shrivis)](https://www.codechef.com/users/shrivis/)
-[![Leetcode](https://img.shields.io/badge/Leetcode-black/endpoint?color=black&logo=Leetcode&style=for-the-badge&link=https://www.leetcode.com/shrivis)](https://www.leetcode.com/shrivis/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-brwon/endpoint?color=gray&logo=CodeChef&style=for-the-badge&link=(https://www.codechef.com/users/surajkcoding19/)](https://www.codechef.com/users/surajkcoding19/)
+[![Leetcode](https://img.shields.io/badge/Leetcode-black/endpoint?color=black&logo=Leetcode&style=for-the-badge&link=(https://leetcode.com/suraj_kr_ag_101/)](https://leetcode.com/suraj_kr_ag_101/)
 [![Leetcode](https://img.shields.io/badge/GFG-white/endpoint?color=white&logo=GeeksForGeeks&style=for-the-badge&link=https://auth.geeksforgeeks.org/user/shrivis/)](https://auth.geeksforgeeks.org/user/shrivis/)
